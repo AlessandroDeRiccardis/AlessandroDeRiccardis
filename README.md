@@ -17,4 +17,3 @@
 - [**Fixed income analytics toolkit**](https://github.com/AlessandroDeRiccardis/fixed-income-analytics-toolkit): Built a Python toolkit for continuous-compounding YTM estimation, Nelson-Siegel/Svensson curve fitting, pricing-error diagnostics, duration/convexity analytics and liability immunization.
 
 - [**ECB news volatility forecasting**](https://github.com/AlessandroDeRiccardis/ecb-news-volatility-forecasting): Developed a macroeconometric volatility forecasting framework combining ECB communication data, NLP-based monetary stance classification and GARCH-family models.
-```

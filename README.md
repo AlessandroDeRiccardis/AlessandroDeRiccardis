@@ -1,4 +1,14 @@
-👋 Hi there. Welcome to my GitHub profile.
+## Alessandro De Riccardis
+
+<a href="https://www.linkedin.com/in/alessandro-de-riccardis-it/">
+  <img src="https://img.shields.io/badge/-LinkedIn-4B5563?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=alessandroagostino.dericcardis@gmail.com">
+  <img src="https://img.shields.io/badge/-Email-4B5563?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://www.google.com/maps/search/?api=1&query=Lisbon%2C%20Portugal">
+  <img src="https://img.shields.io/badge/-Lisbon%2C%20PT-4B5563?style=flat&logo=googlemaps&logoColor=white" alt="Location"/>
+</a>
 
 ## About me
 
@@ -7,6 +17,8 @@
 - Exchange Year in Economics and Finance @ Universidade de Coimbra
 - Honors Program in Economics and Law @ ISUFI School of Advanced Studies
 - Quantitative Researcher @ Nova Portfolio Management Club
+
+**Interests:** stock picking, market microstructure, macroeconomics, quant trading and AI.
 
 ## Relevant projects
 
@@ -17,3 +29,11 @@
 - [**Fixed income analytics toolkit**](https://github.com/AlessandroDeRiccardis/fixed-income-analytics-toolkit): Built a Python toolkit for continuous-compounding YTM estimation, Nelson-Siegel/Svensson curve fitting, pricing-error diagnostics, duration/convexity analytics and liability immunization.
 
 - [**ECB news volatility forecasting**](https://github.com/AlessandroDeRiccardis/ecb-news-volatility-forecasting): Developed a macroeconometric volatility forecasting framework combining ECB communication data, NLP-based monetary stance classification and GARCH-family models.
+
+## Tech stack
+
+**Languages:** `Python` `SQL` `R` `MATLAB` `LaTeX` `Stata`
+
+---
+
+📍 Lisbon, Portugal · [📬 alessandroagostino.dericcardis@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=alessandroagostino.dericcardis@gmail.com) · [LinkedIn](https://www.linkedin.com/in/alessandro-de-riccardis-it/)
